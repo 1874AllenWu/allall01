@@ -1,1 +1,2 @@
-abaaba
+Git：一个版本管理系统
+Github：Git的远程仓库
